@@ -23,4 +23,20 @@ Following Google Developer Machine Learning Video series
 
  2.4 Predictions work like a charm. 
 
+3. What Makes a Good Feature - concepts by using a histogram to visualize a feature from a toy dataset. 
 
+ 3.1 create dogs.py
+
+ 3.2 In repo type: `python dogs.py`
+
+ 3.3. A graphic should appear. I didn't first time. I had to fix the error: `ImportError: No module named matplotlib`
+
+ 3.4 `curl -O https://bootstrap.pypa.io/get-pip.py`
+
+ 3.5 `python get-pip.py`
+
+ 3.6 `pip install matplotlib`
+
+ 3.7 Create a file `~/.matplotlib/matplotlibrc` there and add the following code: backend: `TkAgg` http://stackoverflow.com/questions/21784641/installation-issue-with-matplotlib-python
+
+ 3.8 Done. it shows the graphic.
