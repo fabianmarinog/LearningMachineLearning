@@ -41,7 +41,7 @@ Following Google Developer Machine Learning Video series
 
  3.8 Done. it shows the graphic.
 
- 4. Let’s Write a Pipeline - Using training and testing data to understand what it means to "learn" from data.
+4. Let’s Write a Pipeline - Using training and testing data to understand what it means to "learn" from data.
 
  4.1 create pipeline.py
 
