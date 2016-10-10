@@ -40,3 +40,17 @@ Following Google Developer Machine Learning Video series
  3.7 Create a file `~/.matplotlib/matplotlibrc` there and add the following code: backend: `TkAgg` http://stackoverflow.com/questions/21784641/installation-issue-with-matplotlib-python
 
  3.8 Done. it shows the graphic.
+
+ 4. Let’s Write a Pipeline - Using training and testing data to understand what it means to "learn" from data.
+
+ 4.1 create pipeline.py
+
+ 4.2 In repo type 'python pipeline.py'
+
+ 4.3 predictions dataset should appear. done.
+
+ 4.4 check the difference between DecisionTree and KNeighbors classifiers. Result is a difference of accuracy, 0.9866 for Tree and 0.96 for KNeighbors. 
+
+ 4.5 Running DecisionTree several times and accuracy is different each time, while KNeighbors is most of the times 0.96.
+
+
